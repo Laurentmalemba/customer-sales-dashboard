@@ -1,5 +1,4 @@
-# customer-sales-dashboard
-Power BI dashboard analyzing customer sales and churn
+
 # 📊 Customer Sales & Churn Analysis Dashboard
 
 ## 📌 Project Overview
