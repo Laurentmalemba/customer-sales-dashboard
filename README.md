@@ -38,7 +38,7 @@ Customer transaction dataset including:
 ![Revenue](images/revenue.JPG)
 
 ### Products Dashboard
-![Products](images/products.png)
+![Products](images/products.JPG)
 
 ## 📁 Files Included
 - Data cleaning notebook
