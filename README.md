@@ -29,7 +29,15 @@ Customer transaction dataset including:
 - Higher returns may indicate churn risk
 
 ## 📸 Dashboard Preview
-(Add screenshot here)
+
+### Overview Dashboard
+![Overview](images/overview.png)
+
+### Revenue Dashboard
+![Revenue](images/revenue.png)
+
+### Products Dashboard
+![Products](images/products.png)
 
 ## 📁 Files Included
 - Data cleaning notebook
