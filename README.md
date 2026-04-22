@@ -35,7 +35,7 @@ Customer transaction dataset including:
 
 
 ### Revenue Dashboard
-![Revenue](images/revenue.png)
+![Revenue](images/revenue.JPG)
 
 ### Products Dashboard
 ![Products](images/products.png)
