@@ -31,7 +31,8 @@ Customer transaction dataset including:
 ## 📸 Dashboard Preview
 
 ### Overview Dashboard
-![Overview](images/overview.png)
+![Overview](images/overview.JPG)
+
 
 ### Revenue Dashboard
 ![Revenue](images/revenue.png)
